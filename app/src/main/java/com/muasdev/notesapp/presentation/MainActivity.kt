@@ -1,7 +1,8 @@
-package com.muasdev.notesapp
+package com.muasdev.notesapp.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.muasdev.notesapp.R
 
 class MainActivity : AppCompatActivity() {
 
